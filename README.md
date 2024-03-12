@@ -1,1 +1,1 @@
-# practise14
+# Spring Boot Backend Template (REST API)
